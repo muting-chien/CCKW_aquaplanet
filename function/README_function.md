@@ -2,7 +2,7 @@ In this directory, two files with functions used for analysis are included. The 
 
 1. mjo_mean_state_diagnostic.py
 Include more general functions (e.g., calculating the meridional mean, separating 4 seasons...)
-#
+
 2. KW_diagnostic.py
 KW-tailored diagnostic functions used in this paper such as:
 - generating wavenumber-frequency diagram
