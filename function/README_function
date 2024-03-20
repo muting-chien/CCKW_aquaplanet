@@ -14,3 +14,5 @@ KW-tailored diagnostic functions used in this paper such as:
 - find the vertical mode for zonal wind from EOF of diabatic heating
 - calculating coherence squared between two variables
 - calculating theoretical KW phase speed for the first and second mode (Cp1, Cp2) 
+
+A third file "create_my_colormap.py" is to create a red-white-blue- colormap. This is used for plotting.
